@@ -1,0 +1,47 @@
+2015-04-21 11:28:53,056 INFO  [Log4j] New driver instantiated 
+2015-04-21 11:28:58,412 INFO  [Log4j] Web application launched 
+2015-04-21 11:40:00,436 INFO  [Log4j] New driver instantiated 
+2015-04-21 11:40:04,305 INFO  [Log4j] Web application launched 
+2015-04-21 11:40:04,432 INFO  [Log4j] Clicked on 'My Account' 
+2015-04-21 11:41:04,194 INFO  [Log4j] New driver instantiated 
+2015-04-21 11:41:07,677 INFO  [Log4j] Web application launched 
+2015-04-21 11:41:51,083 INFO  [Log4j] New driver instantiated 
+2015-04-21 11:41:54,026 INFO  [Log4j] Web application launched 
+2015-04-21 11:41:54,384 INFO  [Log4j] Clicked on 'My Account' 
+2015-04-21 11:41:57,082 INFO  [Log4j] Username - matt_test, entered in the Username text box 
+2015-04-21 11:41:57,432 INFO  [Log4j] Password entered in the Password text box 
+2015-04-21 11:41:57,708 INFO  [Log4j] Click action performed on Submit button 
+2015-04-21 11:43:48,063 INFO  [Log4j] New driver instantiated 
+2015-04-21 11:43:52,023 INFO  [Log4j] Web application launched 
+2015-04-21 11:43:52,294 INFO  [Log4j] Clicked on 'My Account' 
+2015-04-21 11:43:54,533 INFO  [Log4j] Username - matt_test, entered in the Username text box 
+2015-04-21 11:43:54,766 INFO  [Log4j] Password entered in the Password text box 
+2015-04-21 11:43:55,238 INFO  [Log4j] Click action performed on Submit button 
+2015-04-21 12:28:40,778 INFO  [Log4j] New driver instantiated 
+2015-04-21 12:28:44,139 INFO  [Log4j] Web application launched 
+2015-04-21 12:28:44,434 INFO  [Log4j] Clicked on 'My Account' 
+2015-04-21 12:28:46,968 INFO  [Log4j] Username - matt_test, entered in the Username text box 
+2015-04-21 12:28:47,193 INFO  [Log4j] Password entered in the Password text box 
+2015-04-21 12:28:47,482 INFO  [Log4j] Click action performed on Submit button 
+2015-04-21 12:28:47,798 INFO  [Log4j] Click action performed on Log out link 
+2015-04-21 12:28:48,117 INFO  [Log4j] Browser closed 
+2015-04-21 12:31:53,063 INFO  [Log4j] New driver instantiated 
+2015-04-21 12:31:58,732 INFO  [Log4j] Web application launched 
+2015-04-21 12:31:59,037 INFO  [Log4j] Clicked on 'My Account' 
+2015-04-21 12:32:02,084 INFO  [Log4j] Username - matt_test, entered in the Username text box 
+2015-04-21 12:32:02,389 INFO  [Log4j] Password entered in the Password text box 
+2015-04-21 12:32:02,766 INFO  [Log4j] Click action performed on Submit button 
+2015-04-21 12:32:43,615 INFO  [Log4j] New driver instantiated 
+2015-04-21 12:32:47,166 INFO  [Log4j] Web application launched 
+2015-04-21 12:32:47,464 INFO  [Log4j] Clicked on 'My Account' 
+2015-04-21 12:32:49,304 INFO  [Log4j] Username - matt_test, entered in the Username text box 
+2015-04-21 12:32:49,528 INFO  [Log4j] Password entered in the Password text box 
+2015-04-21 12:32:49,775 INFO  [Log4j] Click action performed on Submit button 
+2015-04-21 12:33:42,618 INFO  [Log4j] New driver instantiated 
+2015-04-21 12:33:48,318 INFO  [Log4j] Web application launched 
+2015-04-21 12:33:48,618 INFO  [Log4j] Clicked on 'My Account' 
+2015-04-21 12:33:50,866 INFO  [Log4j] Username - matt_test, entered in the Username text box 
+2015-04-21 12:33:51,283 INFO  [Log4j] Password entered in the Password text box 
+2015-04-21 12:33:51,621 INFO  [Log4j] Click action performed on Submit button 
+2015-04-21 12:33:51,983 INFO  [Log4j] Click action performed on Log out link 
+2015-04-21 12:33:52,164 INFO  [Log4j] Browser closed 

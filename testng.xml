@@ -1,0 +1,18 @@
+<suite name="My first TestNG Suite" >
+	<test name="TestNG" >
+		<classes>
+			<class name="automationFramework.TestNG" />
+			<class name="automation.SecondTestCase" />
+			<class name="automation.ThirdTestCase" />
+			<class name="automation.FourthTestCase" />
+			<class name="automation.FifthTestCase" />
+			<class name="automation.SixTestCase" />
+			<class name="automation.SeventhTestCase" />
+			<class name="automation.EigthTestCase" />
+			<class name="automation.NinthTestCase" />
+			<class name="automation.TenthTestCase" />
+			<class name="automation.EleventhTestCase" />
+			<class name="automation.TwelfthTestCase" />
+		</classes>
+	</test>
+</suite> 
